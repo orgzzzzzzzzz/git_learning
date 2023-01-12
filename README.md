@@ -2,4 +2,4 @@
 We are learning git
 
 
-We are going to record some git commands here.shit!
+We are going to record some git commands here.shit!zxxxx
